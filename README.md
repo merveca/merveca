@@ -1,5 +1,4 @@
-- Hi there 👋 
-- 🌱 I’m currently learning Devops Technologies.
+- Hi there 👋
 - 📫 How to reach me:mrvc8862@gmail.com
 - ⚡ Linkedln:https://www.linkedin.com/in/mervec/
 <!---
